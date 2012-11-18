@@ -1,11 +1,11 @@
 <?php
-	
+
 /*
 	Question2Answer (c) Gideon Greenspan
 
 	http://www.question2answer.org/
 
-	
+
 	File: qa-include/qa-lang-admin.php
 	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases for admin center
@@ -17,7 +17,7 @@
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
-	
+
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -80,7 +80,7 @@
 		'database_cleanup' => 'Operasi pembersihan basis data',
 		'delete_category_reassign' => 'Hapus kategori ini dan pindahkan pertanyaannya ke:',
 		'delete_category' => 'Hapus kategori ini',
-		'delete_field' => 'Hap0us bidang ini',
+		'delete_field' => 'Hapus bidang ini',
 		'delete_hidden_complete' => 'Semua kiriman tersembunyi yang tidak memiliki keterkaitan telah dihapus',
 		'delete_hidden_note' => ' - semua pertanyaan, jawaban, dan komentar tersembunyi yang tidak memiliki keterkaitan',
 		'delete_hidden' => 'Hapus kiriman tersembunyi',
@@ -249,8 +249,8 @@
 		'users_title' => 'Pengguna',
 		'users_voted' => 'Pengguna yang memberi suara:',
 		'version_get_x' => 'dapatkan ^',
-		'version_requires_php' => '^1 memerlukan PHP ^2', 
-		'version_requires_q2a' => '^1 memerlukan Q2A ^2', 
+		'version_requires_php' => '^1 memerlukan PHP ^2',
+		'version_requires_q2a' => '^1 memerlukan Q2A ^2',
 		'version_latest_unknown' => 'terakhir tidak diketahui',
 		'version_latest' => 'terakhir',
 		'viewing_title' => 'Tampilan',
@@ -262,7 +262,7 @@
 		'widget_pages_explanation' => 'Tampilkan widget pada posisi ini di laman berikut:',
 		'widgets_explanation' => 'Widget yang tersedia:',
 	);
-	
+
 
 /*
 	Omit PHP closing tag to help avoid accidental output

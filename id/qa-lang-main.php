@@ -1,11 +1,11 @@
 <?php
-	
+
 /*
 	Question2Answer (c) Gideon Greenspan
 
 	http://www.question2answer.org/
 
-	
+
 	File: qa-include/qa-lang-main.php
 	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases commonly used throughout Q2A
@@ -17,7 +17,7 @@
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
-	
+
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -99,7 +99,7 @@
 		'min_length_x' => 'Harap berikan informasi lebih lengkap - paling tidak ^ karakter',
 		'moved' => 'dipindahkan',
 		'nav_account' => 'Akun Saya',
-		'nav_activity' => 'Semua Aktivitas',
+		'nav_activity' => 'Aktivitas',
 		'nav_admin' => 'Admin',
 		'nav_ask' => 'Ajukan Pertanyaan',
 		'nav_categories' => 'Kategori',
@@ -115,7 +115,7 @@
 		'nav_no_answer' => 'Tanpa jawaban',
 		'nav_no_selected_answer' => 'Tanpa jawaban terpilih',
 		'nav_no_upvoted_answer' => 'Tanpa jawaban terdukung',
-		'nav_qa' => 'Beranda',
+		'nav_qa' => 'T&J',
 		'nav_qs' => 'Pertanyaan',
 		'nav_register' => 'Mendaftar',
 		'nav_tags' => 'Tag',
@@ -221,7 +221,7 @@
 		'x_weeks' => '^ minggu',
 		'x_years' => '^ tahun',
 	);
-	
+
 
 /*
 	Omit PHP closing tag to help avoid accidental output
